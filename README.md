@@ -10,3 +10,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae
 
 #EXTINF:-1 tvg-logo="DESENHO" group-title="DESENHO", CARTOON NETWORK
 https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=cYQITjmoailQ8rSY87_YGw&3U1G7qaTxrPbalZnEx=1637028297
+
+#EXTINF:-1 tvg-logo="DESENHO" group-title="DESENHO", BOOMERANG
+https://m3u9.ml/b/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=Iomc9wGg5iVJ4MfcisXU0w&3U1G7qaTxrPbalZnEx=1637028521
