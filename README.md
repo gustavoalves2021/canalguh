@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png"
-group-title="ESPORTES"
-PREMIERE CLUBES HD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+#EXTINF:-1 tvg-logo="ANIME" group-title="ANIME" ANIME https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png"
 group-title="ESPORTES"
 SPORT TV HD
