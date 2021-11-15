@@ -20,5 +20,8 @@ https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=VWVmteVCr9x8v7m9QV38GQ&3U1G
 #EXTINF:-1 tvg-logo="DESENHO" group-title="DESENHO", CARTOON NETWORK FHD
 https://cdn.esporteone.com/CARTOONSD/video.m3u8?md5=B4-j1cTKxSV9rvHNG_eJcw&expires=1637005405
 
+#EXTINF:-1 tvg-logo="DESENHO" group-title="DESENHO", CARTOON NETWORK SD
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , CARTOON NET WORK S http://185.93.1.216:8900/live/B2A463CD6CB8/B2A463CD6CB8/4875.ts
+
 
 
