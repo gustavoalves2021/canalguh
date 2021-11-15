@@ -9,4 +9,4 @@ newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/i
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-logo="DESENHO" group-title="DESENHO", CARTOON NETWORK
-https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=gw_IFwizfn9WTudo0TypIw&3U1G7qaTxrPbalZnEx=1636998537
+https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=5BhpzfKBt20DFGLKI3OIOA&3U1G7qaTxrPbalZnEx=1637027324
